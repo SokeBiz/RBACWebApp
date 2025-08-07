@@ -151,15 +151,6 @@ Project/
 - **Editor**: Can create and edit content, but no admin access
 - **Viewer**: Can only view public content
 
-## Future Enhancements
-
-- Database integration (SQLite/PostgreSQL)
-- User registration system
-- Password reset functionality
-- Content categories and tags
-- File upload capabilities
-- Audit logging
-- API rate limiting
 
 ## License
 

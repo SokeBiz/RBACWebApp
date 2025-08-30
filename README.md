@@ -150,8 +150,3 @@ Project/
 - **Admin**: Can access all features including admin panel
 - **Editor**: Can create and edit content, but no admin access
 - **Viewer**: Can only view public content
-
-
-## License
-
-This project is for educational purposes and demonstrates RBAC implementation in web applications.
